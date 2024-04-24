@@ -1,0 +1,438 @@
+{
+	"textures": [
+		{
+			"image": "ui.png",
+			"size": {
+				"w": 822,
+				"h": 996
+			},
+			"sprites": [
+				{
+					"filename": "LeaderboardScreen.png",
+					"region": {
+						"x": 1,
+						"y": 1,
+						"w": 400,
+						"h": 715
+					},
+					"margin": {
+						"x": 0,
+						"y": 0,
+						"w": 0,
+						"h": 0
+					}
+				},
+				{
+					"filename": "BirdSelectScreen.png",
+					"region": {
+						"x": 403,
+						"y": 1,
+						"w": 400,
+						"h": 548
+					},
+					"margin": {
+						"x": 0,
+						"y": 0,
+						"w": 0,
+						"h": 0
+					}
+				},
+				{
+					"filename": "title_of_bird_select.png",
+					"region": {
+						"x": 1,
+						"y": 718,
+						"w": 431,
+						"h": 97
+					},
+					"margin": {
+						"x": 6,
+						"y": 11,
+						"w": 7,
+						"h": 33
+					}
+				},
+				{
+					"filename": "title.png",
+					"region": {
+						"x": 1,
+						"y": 817,
+						"w": 300,
+						"h": 178
+					},
+					"margin": {
+						"x": 0,
+						"y": 13,
+						"w": 0,
+						"h": 27
+					}
+				},
+				{
+					"filename": "best_score.png",
+					"region": {
+						"x": 403,
+						"y": 551,
+						"w": 325,
+						"h": 67
+					},
+					"margin": {
+						"x": 5,
+						"y": 9,
+						"w": 7,
+						"h": 24
+					}
+				},
+				{
+					"filename": "BgLeaderboardName.png",
+					"region": {
+						"x": 403,
+						"y": 620,
+						"w": 239,
+						"h": 46
+					},
+					"margin": {
+						"x": 0,
+						"y": 0,
+						"w": 0,
+						"h": 0
+					}
+				},
+				{
+					"filename": "Music_OFF.png",
+					"region": {
+						"x": 303,
+						"y": 817,
+						"w": 152,
+						"h": 148
+					},
+					"margin": {
+						"x": 0,
+						"y": 0,
+						"w": 0,
+						"h": 0
+					}
+				},
+				{
+					"filename": "Bg.png",
+					"region": {
+						"x": 434,
+						"y": 668,
+						"w": 140,
+						"h": 69
+					},
+					"margin": {
+						"x": 0,
+						"y": 0,
+						"w": 0,
+						"h": 0
+					}
+				},
+				{
+					"filename": "Music_ON.png",
+					"region": {
+						"x": 457,
+						"y": 739,
+						"w": 151,
+						"h": 148
+					},
+					"margin": {
+						"x": 0,
+						"y": 0,
+						"w": 0,
+						"h": 0
+					}
+				},
+				{
+					"filename": "BirdSelectButton.png",
+					"region": {
+						"x": 457,
+						"y": 889,
+						"w": 96,
+						"h": 95
+					},
+					"margin": {
+						"x": 0,
+						"y": 0,
+						"w": 0,
+						"h": 0
+					}
+				},
+				{
+					"filename": "Continue.png",
+					"region": {
+						"x": 555,
+						"y": 889,
+						"w": 96,
+						"h": 95
+					},
+					"margin": {
+						"x": 0,
+						"y": 0,
+						"w": 0,
+						"h": 0
+					}
+				},
+				{
+					"filename": "ScoreBackground.png",
+					"region": {
+						"x": 730,
+						"y": 551,
+						"w": 91,
+						"h": 91
+					},
+					"margin": {
+						"x": 0,
+						"y": 0,
+						"w": 0,
+						"h": 0
+					}
+				},
+				{
+					"filename": "Trophy.png",
+					"region": {
+						"x": 576,
+						"y": 668,
+						"w": 72,
+						"h": 62
+					},
+					"margin": {
+						"x": 0,
+						"y": 0,
+						"w": 0,
+						"h": 0
+					}
+				},
+				{
+					"filename": "EmptyBtn1.png",
+					"region": {
+						"x": 610,
+						"y": 732,
+						"w": 96,
+						"h": 95
+					},
+					"margin": {
+						"x": 0,
+						"y": 0,
+						"w": 0,
+						"h": 0
+					}
+				},
+				{
+					"filename": "Continue2.png",
+					"region": {
+						"x": 610,
+						"y": 829,
+						"w": 58,
+						"h": 58
+					},
+					"margin": {
+						"x": 0,
+						"y": 0,
+						"w": 0,
+						"h": 0
+					}
+				},
+				{
+					"filename": "EmptyBtn2.png",
+					"region": {
+						"x": 653,
+						"y": 889,
+						"w": 96,
+						"h": 95
+					},
+					"margin": {
+						"x": 0,
+						"y": 0,
+						"w": 0,
+						"h": 0
+					}
+				},
+				{
+					"filename": "EmptyBtn3.png",
+					"region": {
+						"x": 670,
+						"y": 829,
+						"w": 58,
+						"h": 58
+					},
+					"margin": {
+						"x": 0,
+						"y": 0,
+						"w": 0,
+						"h": 0
+					}
+				},
+				{
+					"filename": "LeaderboardButton.png",
+					"region": {
+						"x": 708,
+						"y": 644,
+						"w": 96,
+						"h": 95
+					},
+					"margin": {
+						"x": 0,
+						"y": 0,
+						"w": 0,
+						"h": 0
+					}
+				},
+				{
+					"filename": "EmptyBtn4.png",
+					"region": {
+						"x": 708,
+						"y": 741,
+						"w": 58,
+						"h": 58
+					},
+					"margin": {
+						"x": 0,
+						"y": 0,
+						"w": 0,
+						"h": 0
+					}
+				},
+				{
+					"filename": "Fb_Button.png",
+					"region": {
+						"x": 768,
+						"y": 741,
+						"w": 50,
+						"h": 49
+					},
+					"margin": {
+						"x": 0,
+						"y": 0,
+						"w": 0,
+						"h": 0
+					}
+				},
+				{
+					"filename": "Avatar1.png",
+					"region": {
+						"x": 644,
+						"y": 620,
+						"w": 39,
+						"h": 39
+					},
+					"margin": {
+						"x": 0,
+						"y": 0,
+						"w": 0,
+						"h": 0
+					}
+				},
+				{
+					"filename": "G+Button.png",
+					"region": {
+						"x": 650,
+						"y": 661,
+						"w": 50,
+						"h": 49
+					},
+					"margin": {
+						"x": 0,
+						"y": 0,
+						"w": 0,
+						"h": 0
+					}
+				},
+				{
+					"filename": "LeftArrow.png",
+					"region": {
+						"x": 730,
+						"y": 801,
+						"w": 58,
+						"h": 58
+					},
+					"margin": {
+						"x": 0,
+						"y": 0,
+						"w": 0,
+						"h": 0
+					}
+				},
+				{
+					"filename": "RightArrow.png",
+					"region": {
+						"x": 751,
+						"y": 861,
+						"w": 58,
+						"h": 58
+					},
+					"margin": {
+						"x": 0,
+						"y": 0,
+						"w": 0,
+						"h": 0
+					}
+				},
+				{
+					"filename": "Avatar2.png",
+					"region": {
+						"x": 751,
+						"y": 921,
+						"w": 39,
+						"h": 39
+					},
+					"margin": {
+						"x": 0,
+						"y": 0,
+						"w": 0,
+						"h": 0
+					}
+				},
+				{
+					"filename": "BronzeCrown.png",
+					"region": {
+						"x": 403,
+						"y": 668,
+						"w": 25,
+						"h": 21
+					},
+					"margin": {
+						"x": 0,
+						"y": 0,
+						"w": 0,
+						"h": 0
+					}
+				},
+				{
+					"filename": "GoldCrown.png",
+					"region": {
+						"x": 303,
+						"y": 967,
+						"w": 25,
+						"h": 21
+					},
+					"margin": {
+						"x": 0,
+						"y": 0,
+						"w": 0,
+						"h": 0
+					}
+				},
+				{
+					"filename": "SilverCrown.png",
+					"region": {
+						"x": 685,
+						"y": 620,
+						"w": 25,
+						"h": 21
+					},
+					"margin": {
+						"x": 0,
+						"y": 0,
+						"w": 0,
+						"h": 0
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "1.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:af1d921a8899ca273ed0082944399f3a:5d061a3aae303ac7372207695e1ca19f:0468195115ed5bbbcf55e2ca0092fcfa$"
+	}
+}

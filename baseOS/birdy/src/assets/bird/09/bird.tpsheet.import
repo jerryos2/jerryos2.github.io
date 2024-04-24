@@ -1,0 +1,15 @@
+[remap]
+
+importer="codeandweb.texturepacker_import_spritesheet"
+type="Resource"
+path="res://.import/bird.tpsheet-3f5cc7ad732786d9f7397886ec84dc9d.res"
+
+[deps]
+
+files=[ "res://assets/bird/09/bird.sprites/Bird9_08.tres", "res://assets/bird/09/bird.sprites/Bird9_12.tres", "res://assets/bird/09/bird.sprites/Bird9_09.tres", "res://assets/bird/09/bird.sprites/Bird9_11.tres", "res://assets/bird/09/bird.sprites/Bird9_06.tres", "res://assets/bird/09/bird.sprites/Bird9_14.tres", "res://assets/bird/09/bird.sprites/Bird9_07.tres", "res://assets/bird/09/bird.sprites/Bird9_13.tres", "res://assets/bird/09/bird.sprites/Bird9_04.tres", "res://assets/bird/09/bird.sprites/Bird9_16.tres", "res://assets/bird/09/bird.sprites/Bird9_05.tres", "res://assets/bird/09/bird.sprites/Bird9_15.tres", "res://assets/bird/09/bird.sprites/Bird9_00.tres", "res://assets/bird/09/bird.sprites/Bird9_01.tres", "res://assets/bird/09/bird.sprites/Bird9_19.tres", "res://assets/bird/09/bird.sprites/Bird9_02.tres", "res://assets/bird/09/bird.sprites/Bird9_18.tres", "res://assets/bird/09/bird.sprites/Bird9_03.tres", "res://assets/bird/09/bird.sprites/Bird9_17.tres", "res://assets/bird/09/bird.sprites/Bird9_10.tres" ]
+
+source_file="res://assets/bird/09/bird.tpsheet"
+dest_files=[ "res://.import/bird.tpsheet-3f5cc7ad732786d9f7397886ec84dc9d.res", "res://assets/bird/09/bird.sprites/Bird9_08.tres", "res://assets/bird/09/bird.sprites/Bird9_12.tres", "res://assets/bird/09/bird.sprites/Bird9_09.tres", "res://assets/bird/09/bird.sprites/Bird9_11.tres", "res://assets/bird/09/bird.sprites/Bird9_06.tres", "res://assets/bird/09/bird.sprites/Bird9_14.tres", "res://assets/bird/09/bird.sprites/Bird9_07.tres", "res://assets/bird/09/bird.sprites/Bird9_13.tres", "res://assets/bird/09/bird.sprites/Bird9_04.tres", "res://assets/bird/09/bird.sprites/Bird9_16.tres", "res://assets/bird/09/bird.sprites/Bird9_05.tres", "res://assets/bird/09/bird.sprites/Bird9_15.tres", "res://assets/bird/09/bird.sprites/Bird9_00.tres", "res://assets/bird/09/bird.sprites/Bird9_01.tres", "res://assets/bird/09/bird.sprites/Bird9_19.tres", "res://assets/bird/09/bird.sprites/Bird9_02.tres", "res://assets/bird/09/bird.sprites/Bird9_18.tres", "res://assets/bird/09/bird.sprites/Bird9_03.tres", "res://assets/bird/09/bird.sprites/Bird9_17.tres", "res://assets/bird/09/bird.sprites/Bird9_10.tres" ]
+
+[params]
+

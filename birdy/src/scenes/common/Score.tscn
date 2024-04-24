@@ -1,0 +1,29 @@
+[gd_scene load_steps=5 format=2]
+
+[ext_resource path="res://assets/ui/ui.sprites/ScoreBackground.tres" type="Texture" id=1]
+[ext_resource path="res://theme/score_font.tres" type="Theme" id=2]
+[ext_resource path="res://assets/ui/ui.sprites/best_score.tres" type="Texture" id=3]
+[ext_resource path="res://scenes/common/Score.gd" type="Script" id=4]
+
+[node name="Score" type="Node2D"]
+script = ExtResource( 4 )
+
+[node name="ScoreBackground" type="Sprite" parent="."]
+texture = ExtResource( 1 )
+
+[node name="ScoreTitle" type="Sprite" parent="."]
+position = Vector2( 0, -37 )
+scale = Vector2( 0.3, 0.3 )
+texture = ExtResource( 3 )
+
+[node name="Label" type="Label" parent="."]
+margin_left = -45.0
+margin_top = -19.0
+margin_right = 46.0
+margin_bottom = 16.0
+theme = ExtResource( 2 )
+text = "122"
+align = 1
+__meta__ = {
+"_edit_use_anchors_": false
+}

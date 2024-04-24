@@ -1,0 +1,25 @@
+Telegram: https://web.telegram.org/a/
+
+Twitter: https://x.com/
+
+Chart: https://dexscreener.com/
+
+Solana Launchpad: https://www.starlaunch.com/
+
+SOL News: https://solana.com/news
+
+Whiteboard: Link the Whiteboard App that came with the Github
+
+Terminal: Link the Terminal App that came with the Github
+
+Python Editor: Link the Python EditorApp that came with the Github
+
+CryptoBubbles: https://cryptobubbles.net/
+
+SolTradingBot: Leave blank for now
+
+SolGames: Leave blank for now
+
+Solchat: https://www.solchat.io/
+
+Other: Leave blank for now

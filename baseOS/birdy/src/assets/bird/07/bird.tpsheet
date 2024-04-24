@@ -1,0 +1,318 @@
+{
+	"textures": [
+		{
+			"image": "bird.png",
+			"size": {
+				"w": 121,
+				"h": 812
+			},
+			"sprites": [
+				{
+					"filename": "Bird7_10.png",
+					"region": {
+						"x": 1,
+						"y": 1,
+						"w": 119,
+						"h": 72
+					},
+					"margin": {
+						"x": 57,
+						"y": 47,
+						"w": 97,
+						"h": 78
+					}
+				},
+				{
+					"filename": "Bird7_09.png",
+					"region": {
+						"x": 1,
+						"y": 75,
+						"w": 118,
+						"h": 71
+					},
+					"margin": {
+						"x": 57,
+						"y": 47,
+						"w": 98,
+						"h": 79
+					}
+				},
+				{
+					"filename": "Bird7_11.png",
+					"region": {
+						"x": 1,
+						"y": 75,
+						"w": 118,
+						"h": 71
+					},
+					"margin": {
+						"x": 57,
+						"y": 47,
+						"w": 98,
+						"h": 79
+					}
+				},
+				{
+					"filename": "Bird7_08.png",
+					"region": {
+						"x": 1,
+						"y": 148,
+						"w": 118,
+						"h": 70
+					},
+					"margin": {
+						"x": 56,
+						"y": 46,
+						"w": 98,
+						"h": 80
+					}
+				},
+				{
+					"filename": "Bird7_12.png",
+					"region": {
+						"x": 1,
+						"y": 148,
+						"w": 118,
+						"h": 70
+					},
+					"margin": {
+						"x": 56,
+						"y": 46,
+						"w": 98,
+						"h": 80
+					}
+				},
+				{
+					"filename": "Bird7_07.png",
+					"region": {
+						"x": 1,
+						"y": 220,
+						"w": 118,
+						"h": 69
+					},
+					"margin": {
+						"x": 56,
+						"y": 46,
+						"w": 98,
+						"h": 81
+					}
+				},
+				{
+					"filename": "Bird7_13.png",
+					"region": {
+						"x": 1,
+						"y": 220,
+						"w": 118,
+						"h": 69
+					},
+					"margin": {
+						"x": 56,
+						"y": 46,
+						"w": 98,
+						"h": 81
+					}
+				},
+				{
+					"filename": "Bird7_06.png",
+					"region": {
+						"x": 1,
+						"y": 291,
+						"w": 117,
+						"h": 69
+					},
+					"margin": {
+						"x": 56,
+						"y": 45,
+						"w": 99,
+						"h": 81
+					}
+				},
+				{
+					"filename": "Bird7_14.png",
+					"region": {
+						"x": 1,
+						"y": 291,
+						"w": 117,
+						"h": 69
+					},
+					"margin": {
+						"x": 56,
+						"y": 45,
+						"w": 99,
+						"h": 81
+					}
+				},
+				{
+					"filename": "Bird7_05.png",
+					"region": {
+						"x": 1,
+						"y": 362,
+						"w": 116,
+						"h": 68
+					},
+					"margin": {
+						"x": 56,
+						"y": 45,
+						"w": 100,
+						"h": 82
+					}
+				},
+				{
+					"filename": "Bird7_15.png",
+					"region": {
+						"x": 1,
+						"y": 362,
+						"w": 116,
+						"h": 68
+					},
+					"margin": {
+						"x": 56,
+						"y": 45,
+						"w": 100,
+						"h": 82
+					}
+				},
+				{
+					"filename": "Bird7_04.png",
+					"region": {
+						"x": 1,
+						"y": 432,
+						"w": 116,
+						"h": 67
+					},
+					"margin": {
+						"x": 56,
+						"y": 44,
+						"w": 100,
+						"h": 83
+					}
+				},
+				{
+					"filename": "Bird7_16.png",
+					"region": {
+						"x": 1,
+						"y": 432,
+						"w": 116,
+						"h": 67
+					},
+					"margin": {
+						"x": 56,
+						"y": 44,
+						"w": 100,
+						"h": 83
+					}
+				},
+				{
+					"filename": "Bird7_03.png",
+					"region": {
+						"x": 1,
+						"y": 501,
+						"w": 115,
+						"h": 68
+					},
+					"margin": {
+						"x": 56,
+						"y": 44,
+						"w": 101,
+						"h": 82
+					}
+				},
+				{
+					"filename": "Bird7_17.png",
+					"region": {
+						"x": 1,
+						"y": 501,
+						"w": 115,
+						"h": 68
+					},
+					"margin": {
+						"x": 56,
+						"y": 44,
+						"w": 101,
+						"h": 82
+					}
+				},
+				{
+					"filename": "Bird7_00.png",
+					"region": {
+						"x": 1,
+						"y": 571,
+						"w": 114,
+						"h": 85
+					},
+					"margin": {
+						"x": 56,
+						"y": 42,
+						"w": 102,
+						"h": 65
+					}
+				},
+				{
+					"filename": "Bird7_01.png",
+					"region": {
+						"x": 1,
+						"y": 658,
+						"w": 114,
+						"h": 78
+					},
+					"margin": {
+						"x": 56,
+						"y": 43,
+						"w": 102,
+						"h": 72
+					}
+				},
+				{
+					"filename": "Bird7_19.png",
+					"region": {
+						"x": 1,
+						"y": 658,
+						"w": 114,
+						"h": 78
+					},
+					"margin": {
+						"x": 56,
+						"y": 43,
+						"w": 102,
+						"h": 72
+					}
+				},
+				{
+					"filename": "Bird7_02.png",
+					"region": {
+						"x": 1,
+						"y": 738,
+						"w": 114,
+						"h": 73
+					},
+					"margin": {
+						"x": 56,
+						"y": 43,
+						"w": 102,
+						"h": 77
+					}
+				},
+				{
+					"filename": "Bird7_18.png",
+					"region": {
+						"x": 1,
+						"y": 738,
+						"w": 114,
+						"h": 73
+					},
+					"margin": {
+						"x": 56,
+						"y": 43,
+						"w": 102,
+						"h": 77
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "1.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:9fce730feeca73feeec668fb5385448a:0c70fb6682edf057e48de770297795c8:18fcec7e2514251494a014ee3346fae9$"
+	}
+}
