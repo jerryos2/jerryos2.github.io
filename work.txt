@@ -1,25 +1,15 @@
-Telegram: https://web.telegram.org/a/
+https://etherscan.io/ - etherscan ETH Explorer
 
-Twitter: https://x.com/
+https://app.uniswap.org/swap -uniswap
 
-Chart: https://dexscreener.com/
+https://ens.domains/ -ens
 
-Solana Launchpad: https://www.starlaunch.com/
+https://blur.io/ -blur 
 
-SOL News: https://solana.com/news
+https://app.1inch.io/ -inch dAPP 1inch
 
-Whiteboard: Link the Whiteboard App that came with the Github
+https://www.sushi.com/ -sushi
 
-Terminal: Link the Terminal App that came with the Github
+https://dexscreener.com/ -dexscreener -DEX Screener
 
-Python Editor: Link the Python EditorApp that came with the Github
-
-CryptoBubbles: https://cryptobubbles.net/
-
-SolTradingBot: Leave blank for now
-
-SolGames: Leave blank for now
-
-Solchat: https://www.solchat.io/
-
-Other: Leave blank for now
+https://blast.io/en -blast

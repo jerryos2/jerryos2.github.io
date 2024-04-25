@@ -16,7 +16,7 @@ document.querySelectorAll(`list.focs`).forEach(li => {
             $(_).removeClass('cl');
         }, 500);
     })
-});
+}); 
 // 禁止拖拽图片
 $('img').on('dragstart', () => {
     return false;
@@ -1533,99 +1533,83 @@ let apps = {
         }
     },
     webapps: {
-        apps: ['vscode', 'bilibili', 'dex', 'birdeye', 'jupiter', 'uniswap','moles','animals','birdy','friend','basename','frenpet','basepaint'],
+        apps: ['vscode', 'bilibili'],
         init: () => {
             for (const app of apps.webapps.apps) {
                 apps[app].load();
             }
         }
     },
-    dex: {
+    
+    etherscan: {
         init: () => {
             return null;
         },
         load: () => {
-            $('#win-dex')[0].insertAdjacentHTML('afterbegin', '<iframe src="https://dexscreener.com/" frameborder="0" style="width: 100%; height: 100%;" loading="lazy"></iframe>')
+            $('#win-etherscan')[0].insertAdjacentHTML('afterbegin', '<iframe src="https://etherscan.io/" frameborder="0" style="width: 100%; height: 100%;" loading="lazy"></iframe>')
         }
     },
-    birdeye: {
-        init: () => {
-            return null;
-        },
-        load: () => {
-            $('#win-birdeye')[0].insertAdjacentHTML('afterbegin', '<iframe src="https://birdeye.so/" frameborder="0" style="width: 100%; height: 100%;" loading="lazy"></iframe>')
-        }
-    },
-    jupiter: {
-        init: () => {
-            return null;
-        },
-        load: () => {
-            $('#win-jupiter')[0].insertAdjacentHTML('afterbegin', '<iframe src="https://jup.ag/" frameborder="0" style="width: 100%; height: 100%;" loading="lazy"></iframe>')
-        }
-    },
+    
     uniswap: {
         init: () => {
             return null;
         },
         load: () => {
-            $('#win-uniswap')[0].insertAdjacentHTML('afterbegin', '<iframe src="https://app.uniswap.org/" frameborder="0" style="width: 100%; height: 100%;" loading="lazy"></iframe>')
+            $('#win-uniswap')[0].insertAdjacentHTML('afterbegin', '<iframe src="https://app.uniswap.org/swap" frameborder="0" style="width: 100%; height: 100%;" loading="lazy"></iframe>')
         }
     },
-    moles: {
+    
+    ens: {
         init: () => {
             return null;
         },
         load: () => {
-            $('#win-moles')[0].insertAdjacentHTML('afterbegin', '<iframe src="/moles/" frameborder="0" style="width: 100%; height: 100%;" loading="lazy"></iframe>')
+            $('#win-ens')[0].insertAdjacentHTML('afterbegin', '<iframe src="https://ens.domains/" frameborder="0" style="width: 100%; height: 100%;" loading="lazy"></iframe>')
         }
     },
-    animals: {
+    
+    blur: {
         init: () => {
             return null;
         },
         load: () => {
-            $('#win-animals')[0].insertAdjacentHTML('afterbegin', '<iframe src="/animals/" frameborder="0" style="width: 100%; height: 100%;" loading="lazy"></iframe>')
+            $('#win-blur')[0].insertAdjacentHTML('afterbegin', '<iframe src="https://blur.io/" frameborder="0" style="width: 100%; height: 100%;" loading="lazy"></iframe>')
         }
     },
-    birdy: {
+    
+    inch: {
         init: () => {
             return null;
         },
         load: () => {
-            $('#win-birdy')[0].insertAdjacentHTML('afterbegin', '<iframe src="/birdy/html/" frameborder="0" style="width: 100%; height: 100%;" loading="lazy"></iframe>')
+            $('#win-inch')[0].insertAdjacentHTML('afterbegin', '<iframe src="https://app.1inch.io/" frameborder="0" style="width: 100%; height: 100%;" loading="lazy"></iframe>')
         }
     },
-    friend: {
+    
+    sushi: {
         init: () => {
             return null;
         },
         load: () => {
-            $('#win-friend')[0].insertAdjacentHTML('afterbegin', '<iframe src="https://www.friend.tech/" frameborder="0" style="width: 100%; height: 100%;" loading="lazy"></iframe>')
+            $('#win-sushi')[0].insertAdjacentHTML('afterbegin', '<iframe src="https://www.sushi.com/" frameborder="0" style="width: 100%; height: 100%;" loading="lazy"></iframe>')
         }
     },
-    basename: {
+    
+    dexscreener: {
         init: () => {
             return null;
         },
         load: () => {
-            $('#win-basename')[0].insertAdjacentHTML('afterbegin', '<iframe src="https://basename.app/" frameborder="0" style="width: 100%; height: 100%;" loading="lazy"></iframe>')
+            $('#win-dexscreener')[0].insertAdjacentHTML('afterbegin', '<iframe src="https://dexscreener.com/" frameborder="0" style="width: 100%; height: 100%;" loading="lazy"></iframe>')
         }
     },
-    frenpet: {
+    
+    blast: {
         init: () => {
             return null;
         },
         load: () => {
-            $('#win-frenpet')[0].insertAdjacentHTML('afterbegin', '<iframe src="https://frenpet.xyz/" frameborder="0" style="width: 100%; height: 100%;" loading="lazy"></iframe>')
-        }
-    },
-    basepaint: {
-        init: () => {
-            return null;
-        },
-        load: () => {
-            $('#win-basepaint')[0].insertAdjacentHTML('afterbegin', '<iframe src="https://basepaint.xyz/" frameborder="0" style="width: 100%; height: 100%;" loading="lazy"></iframe>')
+            $('#win-blast')[0].insertAdjacentHTML('afterbegin', '<iframe src="https://blast.io/en " frameborder="0" style="width: 100%; height: 100%;" loading="lazy"></iframe>')
         }
     },
     vscode: {
@@ -3153,17 +3137,14 @@ let icon = {
     // run: 'run.png',
     // whiteboard: 'whiteboard.png',
     taskmgr: 'taskmgr.png',
-    dex:'dex.png',
-    jupiter:'jupitor.png',
-    birdeye:'birdeye.png',
+    etherscan:'etherscan.png',
     uniswap:'uniswap.png',
-    moles:'moles.png',
-    animals:'animals.png',
-    birdy:'birdy.png',
-    friend:'friend.png',
-    basename:'basename.png',
-    frenpet:'frenpet.png',
-    basepaint:'basepaint',
+    ens:'ens.png',
+    blur:'blur.png',
+    inch:'inch.png',
+    sushi:'sushi.png',
+    dexscreener:'dex.png',
+    blast:'blast.png',
 }
 function geticon(name) {
     if (icon[name]) return icon[name];
