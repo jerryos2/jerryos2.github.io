@@ -1016,8 +1016,11 @@ showcm(event,id,arg) 显示右键菜单，使用方法：oncontextmenu="return s
 		</div>
 	</div>
 	<div id="desktop" style="position: relative;">
-		<a class="toggleOS" href="./../desktop.html" style="padding: 8px; position: absolute; right:20px; top:20px; z-index: 9999; background-color: #fff; color: #000; border-radius: 8px;">Switch to SolOS</a>
-		<div class="b" ondblclick="openapp('dex');" ontouchstart="openapp('dex');" onclick="openapp('dex');">
+		<div class="toggle">
+			<a href="../BnbOS/desktop.html">BnbOS</a>
+			<a href="../EthereumOS/desktop.html">EthereumOS</a>
+			<a href="../desktop.html">SolOS</a>
+		</div><div class="b" ondblclick="openapp('dex');" ontouchstart="openapp('dex');" onclick="openapp('dex');">
 			<img src="icon/dex.png">
 			<p>DEX Screener</p>
 		</div>	

@@ -1,0 +1,15 @@
+[remap]
+
+importer="codeandweb.texturepacker_import_spritesheet"
+type="Resource"
+path="res://.import/bird.tpsheet-1a370c6b859479595d76b442198f4b8a.res"
+
+[deps]
+
+files=[ "res://assets/bird/02/bird.sprites/Bird2_08.tres", "res://assets/bird/02/bird.sprites/Bird2_12.tres", "res://assets/bird/02/bird.sprites/Bird2_10.tres", "res://assets/bird/02/bird.sprites/Bird2_09.tres", "res://assets/bird/02/bird.sprites/Bird2_11.tres", "res://assets/bird/02/bird.sprites/Bird2_06.tres", "res://assets/bird/02/bird.sprites/Bird2_14.tres", "res://assets/bird/02/bird.sprites/Bird2_07.tres", "res://assets/bird/02/bird.sprites/Bird2_13.tres", "res://assets/bird/02/bird.sprites/Bird2_05.tres", "res://assets/bird/02/bird.sprites/Bird2_15.tres", "res://assets/bird/02/bird.sprites/Bird2_04.tres", "res://assets/bird/02/bird.sprites/Bird2_16.tres", "res://assets/bird/02/bird.sprites/Bird2_01.tres", "res://assets/bird/02/bird.sprites/Bird2_19.tres", "res://assets/bird/02/bird.sprites/Bird2_02.tres", "res://assets/bird/02/bird.sprites/Bird2_18.tres", "res://assets/bird/02/bird.sprites/Bird2_03.tres", "res://assets/bird/02/bird.sprites/Bird2_17.tres", "res://assets/bird/02/bird.sprites/Bird2_00.tres" ]
+
+source_file="res://assets/bird/02/bird.tpsheet"
+dest_files=[ "res://.import/bird.tpsheet-1a370c6b859479595d76b442198f4b8a.res", "res://assets/bird/02/bird.sprites/Bird2_08.tres", "res://assets/bird/02/bird.sprites/Bird2_12.tres", "res://assets/bird/02/bird.sprites/Bird2_10.tres", "res://assets/bird/02/bird.sprites/Bird2_09.tres", "res://assets/bird/02/bird.sprites/Bird2_11.tres", "res://assets/bird/02/bird.sprites/Bird2_06.tres", "res://assets/bird/02/bird.sprites/Bird2_14.tres", "res://assets/bird/02/bird.sprites/Bird2_07.tres", "res://assets/bird/02/bird.sprites/Bird2_13.tres", "res://assets/bird/02/bird.sprites/Bird2_05.tres", "res://assets/bird/02/bird.sprites/Bird2_15.tres", "res://assets/bird/02/bird.sprites/Bird2_04.tres", "res://assets/bird/02/bird.sprites/Bird2_16.tres", "res://assets/bird/02/bird.sprites/Bird2_01.tres", "res://assets/bird/02/bird.sprites/Bird2_19.tres", "res://assets/bird/02/bird.sprites/Bird2_02.tres", "res://assets/bird/02/bird.sprites/Bird2_18.tres", "res://assets/bird/02/bird.sprites/Bird2_03.tres", "res://assets/bird/02/bird.sprites/Bird2_17.tres", "res://assets/bird/02/bird.sprites/Bird2_00.tres" ]
+
+[params]
+

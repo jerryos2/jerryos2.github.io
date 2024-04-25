@@ -1,0 +1,15 @@
+[remap]
+
+importer="codeandweb.texturepacker_import_spritesheet"
+type="Resource"
+path="res://.import/dead.tpsheet-ccc1471f7d3f322104035bc5e073e28a.res"
+
+[deps]
+
+files=[ "res://assets/bird/dead/dead.sprites/DeadFx_14.tres", "res://assets/bird/dead/dead.sprites/DeadFx_09.tres", "res://assets/bird/dead/dead.sprites/DeadFx_13.tres", "res://assets/bird/dead/dead.sprites/DeadFx_08.tres", "res://assets/bird/dead/dead.sprites/DeadFx_12.tres", "res://assets/bird/dead/dead.sprites/DeadFx_07.tres", "res://assets/bird/dead/dead.sprites/DeadFx_16.tres", "res://assets/bird/dead/dead.sprites/DeadFx_11.tres", "res://assets/bird/dead/dead.sprites/DeadFx_17.tres", "res://assets/bird/dead/dead.sprites/DeadFx_15.tres", "res://assets/bird/dead/dead.sprites/DeadFx_01.tres", "res://assets/bird/dead/dead.sprites/DeadFx_18.tres", "res://assets/bird/dead/dead.sprites/DeadFx_19.tres", "res://assets/bird/dead/dead.sprites/DeadFx_06.tres", "res://assets/bird/dead/dead.sprites/DeadFx_05.tres", "res://assets/bird/dead/dead.sprites/DeadFx_10.tres", "res://assets/bird/dead/dead.sprites/DeadFx_04.tres", "res://assets/bird/dead/dead.sprites/DeadFx_03.tres", "res://assets/bird/dead/dead.sprites/DeadFx_00.tres", "res://assets/bird/dead/dead.sprites/DeadFx_02.tres" ]
+
+source_file="res://assets/bird/dead/dead.tpsheet"
+dest_files=[ "res://.import/dead.tpsheet-ccc1471f7d3f322104035bc5e073e28a.res", "res://assets/bird/dead/dead.sprites/DeadFx_14.tres", "res://assets/bird/dead/dead.sprites/DeadFx_09.tres", "res://assets/bird/dead/dead.sprites/DeadFx_13.tres", "res://assets/bird/dead/dead.sprites/DeadFx_08.tres", "res://assets/bird/dead/dead.sprites/DeadFx_12.tres", "res://assets/bird/dead/dead.sprites/DeadFx_07.tres", "res://assets/bird/dead/dead.sprites/DeadFx_16.tres", "res://assets/bird/dead/dead.sprites/DeadFx_11.tres", "res://assets/bird/dead/dead.sprites/DeadFx_17.tres", "res://assets/bird/dead/dead.sprites/DeadFx_15.tres", "res://assets/bird/dead/dead.sprites/DeadFx_01.tres", "res://assets/bird/dead/dead.sprites/DeadFx_18.tres", "res://assets/bird/dead/dead.sprites/DeadFx_19.tres", "res://assets/bird/dead/dead.sprites/DeadFx_06.tres", "res://assets/bird/dead/dead.sprites/DeadFx_05.tres", "res://assets/bird/dead/dead.sprites/DeadFx_10.tres", "res://assets/bird/dead/dead.sprites/DeadFx_04.tres", "res://assets/bird/dead/dead.sprites/DeadFx_03.tres", "res://assets/bird/dead/dead.sprites/DeadFx_00.tres", "res://assets/bird/dead/dead.sprites/DeadFx_02.tres" ]
+
+[params]
+

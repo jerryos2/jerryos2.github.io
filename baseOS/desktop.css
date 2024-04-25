@@ -2561,3 +2561,23 @@ list>span.focs.cl {
 .setting-card>.setting-list {
     padding-bottom: 5px;
 }
+
+.toggle a {
+    background: #fff;
+    /* display: block; */
+    color: #333;
+    padding: 10px;
+    border-radius: 10px;
+}
+.toggle {
+    position: fixed;
+    right: 20px;
+    top: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+    gap: 10px;
+}
+.toggle:hover{
+    backdrop-filter:unset!important
+}

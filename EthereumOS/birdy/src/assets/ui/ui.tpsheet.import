@@ -1,0 +1,15 @@
+[remap]
+
+importer="codeandweb.texturepacker_import_spritesheet"
+type="Resource"
+path="res://.import/ui.tpsheet-376df49ce79868b5440e4e11a9c1bb21.res"
+
+[deps]
+
+files=[ "res://assets/ui/ui.sprites/LeaderboardScreen.tres", "res://assets/ui/ui.sprites/BirdSelectScreen.tres", "res://assets/ui/ui.sprites/title_of_bird_select.tres", "res://assets/ui/ui.sprites/title.tres", "res://assets/ui/ui.sprites/best_score.tres", "res://assets/ui/ui.sprites/BgLeaderboardName.tres", "res://assets/ui/ui.sprites/Music_OFF.tres", "res://assets/ui/ui.sprites/Bg.tres", "res://assets/ui/ui.sprites/Music_ON.tres", "res://assets/ui/ui.sprites/BirdSelectButton.tres", "res://assets/ui/ui.sprites/Continue.tres", "res://assets/ui/ui.sprites/ScoreBackground.tres", "res://assets/ui/ui.sprites/Trophy.tres", "res://assets/ui/ui.sprites/EmptyBtn1.tres", "res://assets/ui/ui.sprites/Continue2.tres", "res://assets/ui/ui.sprites/EmptyBtn2.tres", "res://assets/ui/ui.sprites/EmptyBtn3.tres", "res://assets/ui/ui.sprites/LeaderboardButton.tres", "res://assets/ui/ui.sprites/EmptyBtn4.tres", "res://assets/ui/ui.sprites/Fb_Button.tres", "res://assets/ui/ui.sprites/Avatar1.tres", "res://assets/ui/ui.sprites/G+Button.tres", "res://assets/ui/ui.sprites/LeftArrow.tres", "res://assets/ui/ui.sprites/RightArrow.tres", "res://assets/ui/ui.sprites/Avatar2.tres", "res://assets/ui/ui.sprites/BronzeCrown.tres", "res://assets/ui/ui.sprites/GoldCrown.tres", "res://assets/ui/ui.sprites/SilverCrown.tres" ]
+
+source_file="res://assets/ui/ui.tpsheet"
+dest_files=[ "res://.import/ui.tpsheet-376df49ce79868b5440e4e11a9c1bb21.res", "res://assets/ui/ui.sprites/LeaderboardScreen.tres", "res://assets/ui/ui.sprites/BirdSelectScreen.tres", "res://assets/ui/ui.sprites/title_of_bird_select.tres", "res://assets/ui/ui.sprites/title.tres", "res://assets/ui/ui.sprites/best_score.tres", "res://assets/ui/ui.sprites/BgLeaderboardName.tres", "res://assets/ui/ui.sprites/Music_OFF.tres", "res://assets/ui/ui.sprites/Bg.tres", "res://assets/ui/ui.sprites/Music_ON.tres", "res://assets/ui/ui.sprites/BirdSelectButton.tres", "res://assets/ui/ui.sprites/Continue.tres", "res://assets/ui/ui.sprites/ScoreBackground.tres", "res://assets/ui/ui.sprites/Trophy.tres", "res://assets/ui/ui.sprites/EmptyBtn1.tres", "res://assets/ui/ui.sprites/Continue2.tres", "res://assets/ui/ui.sprites/EmptyBtn2.tres", "res://assets/ui/ui.sprites/EmptyBtn3.tres", "res://assets/ui/ui.sprites/LeaderboardButton.tres", "res://assets/ui/ui.sprites/EmptyBtn4.tres", "res://assets/ui/ui.sprites/Fb_Button.tres", "res://assets/ui/ui.sprites/Avatar1.tres", "res://assets/ui/ui.sprites/G+Button.tres", "res://assets/ui/ui.sprites/LeftArrow.tres", "res://assets/ui/ui.sprites/RightArrow.tres", "res://assets/ui/ui.sprites/Avatar2.tres", "res://assets/ui/ui.sprites/BronzeCrown.tres", "res://assets/ui/ui.sprites/GoldCrown.tres", "res://assets/ui/ui.sprites/SilverCrown.tres" ]
+
+[params]
+

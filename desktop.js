@@ -3304,8 +3304,6 @@ function hidewin(name, arg = 'window') {
     $('.window.' + name).removeClass('notrans');
     $('.window.' + name).removeClass('max');
     $('.window.' + name).removeClass('show');
-	var srcval = $('.window.' + name + ' iframe').attr('src');
-    $('.window.' + name + ' iframe').attr('src', srcval);
     if (name == 'camera') {
       // 相机关闭后统一清理 tracks
       closeVideo()

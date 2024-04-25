@@ -1,0 +1,318 @@
+{
+	"textures": [
+		{
+			"image": "dead.png",
+			"size": {
+				"w": 1349,
+				"h": 1017
+			},
+			"sprites": [
+				{
+					"filename": "DeadFx_14.png",
+					"region": {
+						"x": 1,
+						"y": 1,
+						"w": 321,
+						"h": 275
+					},
+					"margin": {
+						"x": 68,
+						"y": 40,
+						"w": 128,
+						"h": 101
+					}
+				},
+				{
+					"filename": "DeadFx_09.png",
+					"region": {
+						"x": 1,
+						"y": 278,
+						"w": 290,
+						"h": 288
+					},
+					"margin": {
+						"x": 73,
+						"y": 0,
+						"w": 159,
+						"h": 88
+					}
+				},
+				{
+					"filename": "DeadFx_13.png",
+					"region": {
+						"x": 324,
+						"y": 1,
+						"w": 314,
+						"h": 260
+					},
+					"margin": {
+						"x": 75,
+						"y": 40,
+						"w": 135,
+						"h": 116
+					}
+				},
+				{
+					"filename": "DeadFx_08.png",
+					"region": {
+						"x": 1,
+						"y": 568,
+						"w": 287,
+						"h": 279
+					},
+					"margin": {
+						"x": 73,
+						"y": 0,
+						"w": 162,
+						"h": 97
+					}
+				},
+				{
+					"filename": "DeadFx_12.png",
+					"region": {
+						"x": 640,
+						"y": 1,
+						"w": 305,
+						"h": 260
+					},
+					"margin": {
+						"x": 84,
+						"y": 40,
+						"w": 144,
+						"h": 116
+					}
+				},
+				{
+					"filename": "DeadFx_07.png",
+					"region": {
+						"x": 947,
+						"y": 1,
+						"w": 280,
+						"h": 266
+					},
+					"margin": {
+						"x": 73,
+						"y": 0,
+						"w": 169,
+						"h": 110
+					}
+				},
+				{
+					"filename": "DeadFx_16.png",
+					"region": {
+						"x": 293,
+						"y": 278,
+						"w": 265,
+						"h": 273
+					},
+					"margin": {
+						"x": 41,
+						"y": 65,
+						"w": 184,
+						"h": 103
+					}
+				},
+				{
+					"filename": "DeadFx_11.png",
+					"region": {
+						"x": 560,
+						"y": 263,
+						"w": 279,
+						"h": 260
+					},
+					"margin": {
+						"x": 110,
+						"y": 40,
+						"w": 170,
+						"h": 116
+					}
+				},
+				{
+					"filename": "DeadFx_17.png",
+					"region": {
+						"x": 841,
+						"y": 269,
+						"w": 265,
+						"h": 273
+					},
+					"margin": {
+						"x": 41,
+						"y": 65,
+						"w": 184,
+						"h": 103
+					}
+				},
+				{
+					"filename": "DeadFx_15.png",
+					"region": {
+						"x": 1108,
+						"y": 269,
+						"w": 240,
+						"h": 246
+					},
+					"margin": {
+						"x": 50,
+						"y": 76,
+						"w": 209,
+						"h": 130
+					}
+				},
+				{
+					"filename": "DeadFx_01.png",
+					"region": {
+						"x": 1,
+						"y": 849,
+						"w": 164,
+						"h": 130
+					},
+					"margin": {
+						"x": 122,
+						"y": 67,
+						"w": 285,
+						"h": 246
+					}
+				},
+				{
+					"filename": "DeadFx_18.png",
+					"region": {
+						"x": 560,
+						"y": 525,
+						"w": 265,
+						"h": 273
+					},
+					"margin": {
+						"x": 41,
+						"y": 65,
+						"w": 184,
+						"h": 103
+					}
+				},
+				{
+					"filename": "DeadFx_19.png",
+					"region": {
+						"x": 827,
+						"y": 544,
+						"w": 263,
+						"h": 273
+					},
+					"margin": {
+						"x": 42,
+						"y": 65,
+						"w": 186,
+						"h": 103
+					}
+				},
+				{
+					"filename": "DeadFx_06.png",
+					"region": {
+						"x": 293,
+						"y": 553,
+						"w": 261,
+						"h": 264
+					},
+					"margin": {
+						"x": 73,
+						"y": 0,
+						"w": 188,
+						"h": 112
+					}
+				},
+				{
+					"filename": "DeadFx_05.png",
+					"region": {
+						"x": 1108,
+						"y": 517,
+						"w": 235,
+						"h": 234
+					},
+					"margin": {
+						"x": 86,
+						"y": 15,
+						"w": 214,
+						"h": 142
+					}
+				},
+				{
+					"filename": "DeadFx_10.png",
+					"region": {
+						"x": 1092,
+						"y": 753,
+						"w": 248,
+						"h": 232
+					},
+					"margin": {
+						"x": 135,
+						"y": 53,
+						"w": 201,
+						"h": 144
+					}
+				},
+				{
+					"filename": "DeadFx_04.png",
+					"region": {
+						"x": 556,
+						"y": 800,
+						"w": 211,
+						"h": 216
+					},
+					"margin": {
+						"x": 98,
+						"y": 24,
+						"w": 238,
+						"h": 160
+					}
+				},
+				{
+					"filename": "DeadFx_03.png",
+					"region": {
+						"x": 769,
+						"y": 819,
+						"w": 198,
+						"h": 197
+					},
+					"margin": {
+						"x": 105,
+						"y": 33,
+						"w": 251,
+						"h": 179
+					}
+				},
+				{
+					"filename": "DeadFx_00.png",
+					"region": {
+						"x": 167,
+						"y": 849,
+						"w": 125,
+						"h": 97
+					},
+					"margin": {
+						"x": 141,
+						"y": 83,
+						"w": 324,
+						"h": 279
+					}
+				},
+				{
+					"filename": "DeadFx_02.png",
+					"region": {
+						"x": 294,
+						"y": 819,
+						"w": 181,
+						"h": 173
+					},
+					"margin": {
+						"x": 113,
+						"y": 45,
+						"w": 268,
+						"h": 203
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "1.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:02bfbb112de735525e22f496717a91e3:d72243da0ad911df213ec034a79184eb:876e0a48f890a16b5d0ac34f441f16b5$"
+	}
+}
