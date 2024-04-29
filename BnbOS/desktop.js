@@ -16,7 +16,7 @@ document.querySelectorAll(`list.focs`).forEach(li => {
             $(_).removeClass('cl');
         }, 500);
     })
-});
+}); 
 // 禁止拖拽图片
 $('img').on('dragstart', () => {
     return false;
@@ -1548,86 +1548,47 @@ let apps = {
             $('#win-dex')[0].insertAdjacentHTML('afterbegin', '<iframe src="https://dexscreener.com/" frameborder="0" style="width: 100%; height: 100%;" loading="lazy"></iframe>')
         }
     },
-    birdeye: {
+    pancake: {
         init: () => {
             return null;
         },
         load: () => {
-            $('#win-birdeye')[0].insertAdjacentHTML('afterbegin', '<iframe src="https://birdeye.so/" frameborder="0" style="width: 100%; height: 100%;" loading="lazy"></iframe>')
+            $('#win-pancake')[0].insertAdjacentHTML('afterbegin', '<iframe src="https://pancakeswap.finance/swap " frameborder="0" style="width: 100%; height: 100%;" loading="lazy"></iframe>')
         }
     },
-    jupiter: {
+    inch: {
         init: () => {
             return null;
         },
         load: () => {
-            $('#win-jupiter')[0].insertAdjacentHTML('afterbegin', '<iframe src="https://jup.ag/" frameborder="0" style="width: 100%; height: 100%;" loading="lazy"></iframe>')
+            $('#win-inch')[0].insertAdjacentHTML('afterbegin', '<iframe src="https://app.1inch.io/" frameborder="0" style="width: 100%; height: 100%;" loading="lazy"></iframe>')
         }
     },
-    uniswap: {
+    dext: {
         init: () => {
             return null;
         },
         load: () => {
-            $('#win-uniswap')[0].insertAdjacentHTML('afterbegin', '<iframe src="https://app.uniswap.org/" frameborder="0" style="width: 100%; height: 100%;" loading="lazy"></iframe>')
+            $('#win-dext')[0].insertAdjacentHTML('afterbegin', '<iframe src="https://dextools.io/" frameborder="0" style="width: 100%; height: 100%;" loading="lazy"></iframe>')
         }
     },
-    moles: {
+    twitter: {
         init: () => {
             return null;
         },
         load: () => {
-            $('#win-moles')[0].insertAdjacentHTML('afterbegin', '<iframe src="/moles/" frameborder="0" style="width: 100%; height: 100%;" loading="lazy"></iframe>')
+            $('#win-twitter')[0].insertAdjacentHTML('afterbegin', '<iframe src="https://cors-anywhere.herokuapp.com/https://twitter.com/" frameborder="0" style="width: 100%; height: 100%;" loading="lazy"></iframe>')
         }
     },
-    animals: {
+    telegram: {
         init: () => {
             return null;
         },
         load: () => {
-            $('#win-animals')[0].insertAdjacentHTML('afterbegin', '<iframe src="/animals/" frameborder="0" style="width: 100%; height: 100%;" loading="lazy"></iframe>')
+            $('#win-telegram')[0].insertAdjacentHTML('afterbegin', '<iframe src="https://cors-anywhere.herokuapp.com/https://web.telegram.org/" frameborder="0" style="width: 100%; height: 100%;" loading="lazy"></iframe>')
         }
     },
-    birdy: {
-        init: () => {
-            return null;
-        },
-        load: () => {
-            $('#win-birdy')[0].insertAdjacentHTML('afterbegin', '<iframe src="/birdy/html/" frameborder="0" style="width: 100%; height: 100%;" loading="lazy"></iframe>')
-        }
-    },
-    friend: {
-        init: () => {
-            return null;
-        },
-        load: () => {
-            $('#win-friend')[0].insertAdjacentHTML('afterbegin', '<iframe src="https://www.friend.tech/" frameborder="0" style="width: 100%; height: 100%;" loading="lazy"></iframe>')
-        }
-    },
-    basename: {
-        init: () => {
-            return null;
-        },
-        load: () => {
-            $('#win-basename')[0].insertAdjacentHTML('afterbegin', '<iframe src="https://basename.app/" frameborder="0" style="width: 100%; height: 100%;" loading="lazy"></iframe>')
-        }
-    },
-    frenpet: {
-        init: () => {
-            return null;
-        },
-        load: () => {
-            $('#win-frenpet')[0].insertAdjacentHTML('afterbegin', '<iframe src="https://frenpet.xyz/" frameborder="0" style="width: 100%; height: 100%;" loading="lazy"></iframe>')
-        }
-    },
-    basepaint: {
-        init: () => {
-            return null;
-        },
-        load: () => {
-            $('#win-basepaint')[0].insertAdjacentHTML('afterbegin', '<iframe src="https://basepaint.xyz/" frameborder="0" style="width: 100%; height: 100%;" loading="lazy"></iframe>')
-        }
-    },
+    
     vscode: {
         init: () => {
             return null;
@@ -3154,16 +3115,12 @@ let icon = {
     // whiteboard: 'whiteboard.png',
     taskmgr: 'taskmgr.png',
     dex:'dex.png',
-    jupiter:'jupitor.png',
-    birdeye:'birdeye.png',
-    uniswap:'uniswap.png',
-    moles:'moles.png',
-    animals:'animals.png',
-    birdy:'birdy.png',
-    friend:'friend.png',
-    basename:'basename.png',
-    frenpet:'frenpet.png',
-    basepaint:'basepaint',
+    inch:'inch.png',
+    pancake:' pancake.png',
+    dext:'dext.png',
+    twitter:'twitter.png',
+    telegram:'telegram.png',
+  
 }
 function geticon(name) {
     if (icon[name]) return icon[name];

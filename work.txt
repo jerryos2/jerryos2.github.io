@@ -1,15 +1,11 @@
-https://etherscan.io/ - etherscan ETH Explorer
+https://pancakeswap.finance/swap = pancake
 
-https://app.uniswap.org/swap -uniswap
+https://app.1inch.io/ = inch
 
-https://ens.domains/ -ens
+https://dexscreener.com/ =dex
 
-https://blur.io/ -blur 
+https://dextools.io/ = dext
 
-https://app.1inch.io/ -inch dAPP 1inch
+https://twitter.com/ = twitter
 
-https://www.sushi.com/ -sushi
-
-https://dexscreener.com/ -dexscreener -DEX Screener
-
-https://blast.io/en -blast
+https://web.telegram.org/ = telegram
